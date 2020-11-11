@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [healthAssistance_webapp](https://github.com/Janitham97/healthAssistance_webapp)
 
-- 🌱 I’m currently learning **SpringBoot , Tensorflow**
+- 🌱 I’m currently learning **SpringBoot , Tensorflow  and Python**
 
 - 📫 How to reach me **janitha.missaka@gmail.com**
 
