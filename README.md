@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on React Application
 
-- 🌱 I’m currently learning **SpringBoot , Tensorflow.js  and ReactJs**
+- 🌱 I’m currently learning **SpringBoot , AWS  and ReactJs**
 
 - 📫 How to reach me **janitha.missaka@gmail.com**
 
