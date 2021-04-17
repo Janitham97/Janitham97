@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **janitha.missaka@gmail.com**
 
-<h3 align="left">Connect with me:</h3> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+<h3 align="left">Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></h3>
 <p align="left">
 <a href="https://www.hackerrank.com/Janitha_missaka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="janitham97" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/janitha missaka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="janitha missaka" height="30" width="40" /></a>
