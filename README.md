@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Janitha Missaka</h1>
+<h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+, I'm Janitha Missaka</h1>
 <h3 align="center">Cloud Engineering Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janitham97&label=Profile%20views&color=0e75b6&style=flat" alt="janitham97" /> </p>
@@ -9,7 +10,7 @@
 
 - 📫 How to reach me **janitha.missaka@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 <p align="left">
 <a href="https://www.hackerrank.com/Janitha_missaka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="janitham97" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/janitha missaka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="janitha missaka" height="30" width="40" /></a>
