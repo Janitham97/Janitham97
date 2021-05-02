@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
 , I'm Janitha Missaka</h1>
 <h3 align="center">Cloud Engineering Enthusiast</h3>
 
