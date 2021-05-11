@@ -27,7 +27,7 @@
 </p>
 <br/>
 <br/>
-
+<p align="Center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Janitham97&&count_private=true&no-bg-true&theme=darkhub" alt="JAnithaMissaka" /></a> </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=janitham97&show_icons=true&locale=en" alt="janitham97" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janitham97&" alt="janitham97" /></p>
