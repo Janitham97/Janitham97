@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janitham97&label=Profile%20views&color=0e75b6&style=flat" alt="janitham97" /> </p>
 
-- 🔭 I’m currently working on React application with commerceJs
+- 🔭 I’m currently working on **React application with commerceJs**
 
 - 🌱 I’m currently learning **SpringBoot, AWS and ReactJs**
 
