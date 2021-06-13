@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN Stack application**
 
-- 🌱 I’m currently learning **NodeJs, AWS and ReactJs**
+- 🌱 I’m currently learning **NodeJs, AWS and ReactJs(Redux)**
 
 - 📫 How to reach me **janitha.missaka@gmail.com**
 
