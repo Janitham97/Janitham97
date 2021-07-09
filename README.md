@@ -26,7 +26,6 @@
 </p>
 <br/>
 <br/>
-<br/>
 <p align="center" [![trophy](https://github-profile-trophy.vercel.app/?username=Janitham97)](https://github.com/ryo-ma/github-profile-trophy)</p>
 
 
