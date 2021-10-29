@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React application**
 
-- 🌱 I’m currently learning **AWS and ReactJs(Redux/Redux-Saga)**
+- 🌱 I’m currently learning **AWS and ReactJs**
 
 - 📫 How to reach me **janitha.missaka@gmail.com**
 
