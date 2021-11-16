@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
+<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" /><h1 align="center">Hi 
 , I'm Janitha Missaka</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janitham97&label=Profile%20views&color=0e75b6&style=flat" alt="janitham97" /> </p>
