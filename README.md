@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Java applications**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java and C++**
 
 - 📫 How to reach me **janitha.missaka@gmail.com**
 
